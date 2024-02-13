@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.js": "/Panoramic-View/static/js/main.1734cbb6.js",
+    "static/media/terassa.jpg": "/Panoramic-View/static/media/terassa.78ba5312a15375e2ab68.jpg",
+    "static/media/gaming.jpg": "/Panoramic-View/static/media/gaming.8e996c6122eb649c7379.jpg",
+    "static/media/coworking.jpg": "/Panoramic-View/static/media/coworking.57386db5914936ef65fa.jpg",
+    "static/media/kitchen.jpg": "/Panoramic-View/static/media/kitchen.0c5c6f59a16d27a08d4c.jpg",
+    "static/media/hall.jpg": "/Panoramic-View/static/media/hall.58e3330136c39cd89a94.jpg",
+    "static/media/meeting.jpg": "/Panoramic-View/static/media/meeting.d23e226ed4367185a979.jpg",
+    "static/media/regata1.png": "/Panoramic-View/static/media/regata1.a3ecafff0f0c4541fe44.png",
+    "static/media/port1.png": "/Panoramic-View/static/media/port1.f2b67eeef2c38dc214a2.png",
+    "static/media/logo1.png": "/Panoramic-View/static/media/logo1.bd3b0ddeb7854da330b0.png",
+    "static/media/background-mobile-banner.svg": "/Panoramic-View/static/media/background-mobile-banner.7dfae734493574e82f2a325010654156.svg",
+    "static/media/background-banner-main.svg": "/Panoramic-View/static/media/background-banner-main.6d5ce8fce09bb2d9ab9407960337c413.svg",
+    "static/media/background-banner.svg": "/Panoramic-View/static/media/background-banner.0c5f0cd726fdb8c1ad3854c4ea328e60.svg",
+    "static/media/panel-background.svg": "/Panoramic-View/static/media/panel-background.164737ba0f00edf16cc5fdf561ca7b45.svg",
+    "static/media/background-mobile-main.svg": "/Panoramic-View/static/media/background-mobile-main.7943ad3f8908a059dc65fa0d2de831a6.svg",
+    "static/media/algae-1.svg": "/Panoramic-View/static/media/algae-1.e06f4dce964fdb1eee0070d4232a770e.svg",
+    "static/media/algae-2.svg": "/Panoramic-View/static/media/algae-2.829b5cdc57035d74d98f04a240de6cb8.svg",
+    "static/media/close-icon.svg": "/Panoramic-View/static/media/close-icon.f79002ecff285a551fc8c663ca237e20.svg",
+    "static/media/arrow-right.svg": "/Panoramic-View/static/media/arrow-right.0b745d94cfff4a19da4c56cce48aa8b6.svg",
+    "index.html": "/Panoramic-View/index.html",
+    "main.1734cbb6.js.map": "/Panoramic-View/static/js/main.1734cbb6.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.1734cbb6.js"
+  ]
+}
